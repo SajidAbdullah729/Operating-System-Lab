@@ -1,3 +1,8 @@
+/*
+Author: Mohammad Abdullah-Al-Sajid Chowdhury
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 #define deb(x) cout<<#x<<"="<<x<<endl
